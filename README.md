@@ -19,7 +19,7 @@ Data Governance
 
 
 *Technologies I'm Learning*:
-  Python, SQL, Advanced excel
+  Python, SQL, Advanced excel, Pandas
 Technologies I know:
   Power BI, Tableau, R,C, Java, Azure Data Factory
   Microsoft Azure, Databricks , Matlab, Matplotlib, PySpark
