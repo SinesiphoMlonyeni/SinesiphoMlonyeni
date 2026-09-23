@@ -6,8 +6,7 @@ I am an aspiring Data Engineer passionate about designing and building scalable 
 
 I enjoy working with structured and unstructured data, optimizing data workflows, and developing systems that ensure reliable, efficient, and secure data movement across platforms. Through continuous learning and hands-on projects, I aim to strengthen my expertise in modern data engineering tools and practices.
 
-Interests:
-Data Engineering
+*Interests*: Data Engineering
 ETL/ELT Pipeline Development
 Data Warehousing
 Cloud Computing
@@ -19,7 +18,7 @@ Python & SQL
 Data Governance
 
 
-Technologies I'm Learning:
+*Technologies I'm Learning*:
   Python, SQL, Advanced excel
 Technologies I know:
   Power BI, Tableau, R,C, Java, Azure Data Factory
